@@ -1,2 +1,2 @@
-LeiUI - v6: Readme
+LeiUI - v2: Readme
 ==================

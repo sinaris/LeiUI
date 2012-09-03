@@ -1,2 +1,2 @@
-LeiUI - v6: Changelog
+LeiUI - v2: Changelog
 =====================

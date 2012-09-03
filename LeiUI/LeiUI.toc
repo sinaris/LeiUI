@@ -1,0 +1,12 @@
+## Interface: 50001
+## Title: LeiUI - Core
+## Notes:
+## Version: 2.0.0
+## Author: Sinaris
+## SavedVariablesPerCharacter:
+## RequiredDeps: LeiUI_Config, Tukui
+## OptionalDeps:
+## X-oUF: oUFTukui
+## Website: http://www.natias.de
+
+LeiUI_Loader.xml

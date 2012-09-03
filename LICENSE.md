@@ -1,4 +1,4 @@
-LeiUI - v6: License
+LeiUI - v2: License
 ===================
 
 Copyright 20011-2012 Sinaris

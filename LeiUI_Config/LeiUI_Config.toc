@@ -1,0 +1,9 @@
+## Interface: 50001
+## Title: LeiUI - Config
+## Notes:
+## Version: 2.0.0
+## Author: Sinaris
+## RequiredDeps: LeiUI
+## Website: http://www.natias.de
+
+Config\Config.lua
